@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **any Project that I can fit with my skills. Talk to me and we can coordinate.**
 
-- 👨‍💻 All of my projects are available at [www.javier-paredes.cl](www.javier-paredes.cl)
+- 👨‍💻 All of my projects are available at [my Portfolio.](www.javier-paredes.cl)
 
-- 📝 I regularly write articles on my [https://www.linkedin.com/in/javier-paredes-l%C3%B3pez/](LinkedIn Profile)
+- 📝 I regularly write articles on my [LinkedIn Profile.]([LinkedIn Profile](https://www.linkedin.com/in/javier-paredes-l%C3%B3pez/))
 
-- 💬 Ask me about **JavaScript, Python, Django**
+- 💬 Ask me about **JavaScript, Python, Django.**
 
-- 📫 How to reach me **javierparedesl@outlook.com**
+- 📫 How to reach me **javierparedesl@outlook.com** .
 
-- 📄 Know about my experiences in my résumé [https://drive.google.com/file/d/1H9kmVqTkM4RmXUXGN5D7S5SQG1SzIykx/view?usp=sharing](Google Drive File)
+- 📄 Know about my experiences in my résumé [Google Drive File.](https://drive.google.com/file/d/1H9kmVqTkM4RmXUXGN5D7S5SQG1SzIykx/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a frequent gamer, I like to play FPS!**
 

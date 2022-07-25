@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **javierparedesl@outlook.com** .
 
-- 📄 Know about my experiences in my résumé [Google Drive File.](https://drive.google.com/file/d/1H9kmVqTkM4RmXUXGN5D7S5SQG1SzIykx/view?usp=sharing)
-
 - ⚡ Fun fact **I'm a frequent gamer, I like to play FPS!**
 
 <h3 align="left">Languages and Tools:</h3>

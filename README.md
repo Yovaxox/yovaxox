@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **JavaScript, Python, Django.**
 
-- 📫 How to reach me **javierparedesl@outlook.com** .
+- 📫 How to reach me **javierparedesl@outlook.com**.
 
 - ⚡ Fun fact **I'm a frequent gamer, I like to play FPS!**
 

@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [PortfolioV2.](https://github.com/Yovaxox/PortfolioV2)
 
-- 🌱 I’m currently learning **Angular, Ionic, and good practices!**
+- 🌱 I’m currently learning **Good practices**
 
-- 👯 I’m looking to collaborate on **Code for America Projects.**
+- 👯 I’m looking to collaborate in any project.
 
 - 🤝 I’m looking for help with **any Project that I can fit with my skills. Talk to me and we can coordinate.**
 
-- 👨‍💻 All of my projects are available at [my Portfolio.](https://www.javier-paredes.cl)
+- 👨‍💻 All of my projects are available at [my Portfolio.](https://jparedes-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on my [LinkedIn Profile.](https://www.linkedin.com/in/javier-paredes-l%C3%B3pez/)
 

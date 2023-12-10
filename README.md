@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [my Portfolio.](https://jparedes-portfolio.netlify.app/)
 
-- 📝 Check some articles on my [LinkedIn Profile.](https://www.linkedin.com/in/javier-paredes-l%C3%B3pez/)
+- 📝 Check some articles on my [LinkedIn Profile.](https://www.linkedin.com/in/javierparedesl/)
 
 - 📫 How to reach me **javierparedesl@outlook.com**.
 

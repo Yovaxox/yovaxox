@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **any Project that I can fit with my skills. Talk to me and we can coordinate.**
 
-- 👨‍💻 All of my projects are available at [my Portfolio.](https://jparedes-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [my Portfolio.](https://jparedes-portfolio.vercel.app/)
 
 - 📝 Check some articles on my [LinkedIn Profile.](https://www.linkedin.com/in/javierparedesl/)
 

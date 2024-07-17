@@ -3,8 +3,6 @@
   
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yovaxox&label=Profile%20views&color=0e75b6&style=flat" alt="yovaxox" /> </p>
 
-- 💼 I’m looking for a job as a **Full-Stack/Frontend/Backend Developer**.
-
 - 🔎 Take a look at my [**english**](https://drive.google.com/file/d/1roH9BXY4w20tpLhZu2KRnhcO0QJy9lIv/view) or [**spanish**](https://drive.google.com/file/d/1L5AxQrXoS01VfibB2S_kio8L-oB_D8ee/view) resume if I'm of your interest.
 
 - 💻 Take a look at my projects in [**my Portfolio**](https://jparedes-portfolio.vercel.app/).
